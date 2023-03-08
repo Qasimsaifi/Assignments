@@ -66,8 +66,8 @@
 
 // Problem No . 6
 
-function count(num) {
-  let numOfDigit = num.toString().length;
-  console.log(numOfDigit)
-}
-count('244');
+// function count(num) {
+//   let numOfDigit = num.toString().length;
+//   console.log(numOfDigit)
+// }
+// count('244');
